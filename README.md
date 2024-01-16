@@ -1,4 +1,4 @@
-# plum-assets
+# pluto-assets
 
 此处存放了星社项目中用到了的一些媒体素材，包括 Plum 项目所使用到的。
 
